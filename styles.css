@@ -1,0 +1,10 @@
+.Title {
+    color: blue;
+    background-color: black;
+}
+
+.Paragraph {
+    color: blue;
+    position: absolute;
+    border: 5px solid black;
+}
