@@ -69,3 +69,15 @@
     border: 2px solid blue;
     margin-bottom: 10px;
 }
+
+.split {
+    width: 95%;
+    display: flex;
+}
+
+.box-3 {
+    width: calc(100%/3);
+    height: 90px;
+    border: 2px solid red;
+    margin-right: 10px;
+}
